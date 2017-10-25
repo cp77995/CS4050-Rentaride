@@ -1,0 +1,25 @@
+?? Landing/index.html 
+	?? With navbar
+	?? Connect all pages
+
+?? Signup/login
+	?? Username
+	?? Password	
+	?? Drivers license
+ 
+Account info user/admin
+	Cancel/extend
+	Balance
+	Flags
+
+?? All vehicles
+	?? See all vehicles in grid mode
+	?? Sort
+
+Register/buy vehicle page
+	Available or not
+	Location
+
+Return page
+	Comment on quality
+	Late fee

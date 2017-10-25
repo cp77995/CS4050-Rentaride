@@ -1,0 +1,11 @@
+* {
+  border-radius: 0 !important;
+}
+
+html{
+    margin: 0;
+}
+
+a:focus,a:active {
+   outline: none !important;
+}
